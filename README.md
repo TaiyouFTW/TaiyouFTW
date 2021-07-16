@@ -1,7 +1,7 @@
 ## Hello, my name is Guilherme. 👋
 
 #### 😄 About me:
-Hello I'm from Brazil. I've been working as Front-End Developer since 2018. Game developer graduated in FIAP. I love games, new technologies and we can talk about everything.
+Hello I'm a brazilian developer working as Front-End developer since 2018. Game developer graduated at FIAP. Love games, new technologies and open to every topic.
 
 #### 📫 How to reach me:
 
